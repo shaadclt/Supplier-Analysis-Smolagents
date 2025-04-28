@@ -132,7 +132,7 @@ This project includes a Google Colab notebook for easy exploration without local
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contributing
 
