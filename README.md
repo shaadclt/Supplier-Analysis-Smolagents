@@ -1,6 +1,6 @@
 # Ice Cream Supplier Analysis using Smolagents🍦
 
-This project demonstrates how to use smolagents to build a simple yet powerful agent that helps calculate transportation costs and tariffs for an ice cream supplier business.
+This project demonstrates how to use **smolagents** to build a simple yet powerful agent that helps calculate transportation costs and tariffs for an ice cream supplier business.
 
 ## Overview
 
