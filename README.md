@@ -1,6 +1,6 @@
 # Ice Cream Supplier Analysis using Smolagents🍦
 
-A Python toolkit for analyzing ice cream supplier data using `smolagents`-powered computation and supply chain metrics.
+This project demonstrates how to use smolagents to build a simple yet powerful agent that helps calculate transportation costs and tariffs for an ice cream supplier business.
 
 ## Overview
 
