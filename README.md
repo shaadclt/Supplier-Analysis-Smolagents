@@ -1,4 +1,4 @@
-# Ice Cream Supplier Analysis 🍦
+# Ice Cream Supplier Analysis using Smolagents🍦
 
 A Python toolkit for analyzing ice cream supplier data using `smolagents`-powered computation and supply chain metrics.
 
@@ -30,11 +30,8 @@ This project showcases [smolagents](https://github.com/huggingface/smolagents), 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ice-cream-supplier-analysis.git
-cd ice-cream-supplier-analysis
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/shaadclt/Supplier-Analysis-Smolagents.git
+cd Supplier-Analysis-Smolagents
 ```
 
 ## Usage
